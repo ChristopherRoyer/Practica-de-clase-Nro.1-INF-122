@@ -1,0 +1,11 @@
+body{ 
+    background-color:rgb(65, 218, 128); 
+} 
+img{ 
+    width: 200px; 
+    height: 200px; 
+} 
+h1{ 
+    text-transform: uppercase; 
+    color: rgb(168, 29, 29); 
+}
